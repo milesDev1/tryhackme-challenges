@@ -7,3 +7,7 @@ This platform is great for me as I am currently studying Penetration Testing pri
 
 The folders within this repository are named after Penetration Testing machines TryHackMe provide on their site and contain methods,
 scripts, explanations and security recommendations.
+
+```
+NOTE: FOLDERS WILL CONTAIN WRITEUPS/SPOILERS ON HOW I COMPLETED THE BOXES.
+```
